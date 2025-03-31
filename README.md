@@ -18,7 +18,7 @@ Secure Storage and Data Encryption are the services that are avilable in the aws
 
 OUTPUT:IAM POLICES
 
-
+![Image](https://github.com/user-attachments/assets/4fb6d758-6303-46e6-8826-b62c6350bd44)
 
 OUTPUT:SECURE STORAGE AND DATA ENCRYPTION
 
