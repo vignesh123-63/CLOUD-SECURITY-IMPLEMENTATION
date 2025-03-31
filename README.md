@@ -22,4 +22,4 @@ OUTPUT:IAM POLICES
 
 OUTPUT:SECURE STORAGE AND DATA ENCRYPTION
 
-
+![Image](https://github.com/user-attachments/assets/53d6a963-a797-48b6-9230-8fac5f6c7f7d)
